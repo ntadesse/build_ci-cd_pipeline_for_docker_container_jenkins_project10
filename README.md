@@ -13,3 +13,10 @@
 - tar xzvf <tar of helm>
 - cd linux-amd64
 - sudo mv helm /usr/local/bin/helm
+# Java Web Application Technologies
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Maven
+- JSP
+- MySQL

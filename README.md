@@ -1,4 +1,4 @@
-#Tools
+# Tools
 - Kuberenets -- Container Orchastrator
 - Docker -- Container Builder
 - Maven -- Java Build Tool
@@ -7,7 +7,7 @@
 - Docker Hub -- Docker Registery
 - Helm Charts -- Kubernets Package Manager
 - Git -- Distributed Version Control
-#Helm Installation
+# Helm Installation
 - cd /tmp
 - wget <link for helm binary from github>
 - tar xzvf <tar of helm>
